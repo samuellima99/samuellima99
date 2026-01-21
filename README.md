@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?samuellima99&color=006bed)
+![](https://komarev.com/?samuellima99&color=006bed)
 
 ## 👋 Sobre mim
 
